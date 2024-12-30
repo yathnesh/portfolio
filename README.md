@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://yathnesh.github.io/portfolio/](https://yathnesh-portfolio.netlify.app/)
+Visit the live website: [https://yathnesh-portfolio.netlify.app/](https://yathnesh-portfolio.netlify.app/)
 
 ## ✨ Features
 
